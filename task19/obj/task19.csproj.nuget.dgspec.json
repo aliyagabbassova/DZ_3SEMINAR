@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\a.gabbasova.ALMATYSU\\Учеба\\DZ_3Seminar\\task19\\task19.csproj": {}
+    "C:\\Users\\PK\\Desktop\\Учеба\\3Seminar\\3Seminar\\task19\\task19.csproj": {}
   },
   "projects": {
-    "C:\\Users\\a.gabbasova.ALMATYSU\\Учеба\\DZ_3Seminar\\task19\\task19.csproj": {
+    "C:\\Users\\PK\\Desktop\\Учеба\\3Seminar\\3Seminar\\task19\\task19.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a.gabbasova.ALMATYSU\\Учеба\\DZ_3Seminar\\task19\\task19.csproj",
+        "projectUniqueName": "C:\\Users\\PK\\Desktop\\Учеба\\3Seminar\\3Seminar\\task19\\task19.csproj",
         "projectName": "task19",
-        "projectPath": "C:\\Users\\a.gabbasova.ALMATYSU\\Учеба\\DZ_3Seminar\\task19\\task19.csproj",
-        "packagesPath": "C:\\Users\\a.gabbasova.ALMATYSU\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\a.gabbasova.ALMATYSU\\Учеба\\DZ_3Seminar\\task19\\obj\\",
+        "projectPath": "C:\\Users\\PK\\Desktop\\Учеба\\3Seminar\\3Seminar\\task19\\task19.csproj",
+        "packagesPath": "C:\\Users\\PK\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PK\\Desktop\\Учеба\\3Seminar\\3Seminar\\task19\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\a.gabbasova.ALMATYSU\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\PK\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
